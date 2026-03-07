@@ -12,7 +12,7 @@ Example notification:
 
 ```
 €29.99 — 1 product from Online Store
-• UXModz
+• YOURSHOPNAME
 ```
 
 ---
