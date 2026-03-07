@@ -1,6 +1,6 @@
-# SellAuth Shopify-Style Sale Notifications
+# SellAuth Shopify style Sale Notifications
 
-Create **Shopify-style sale notifications** for your SellAuth store and receive them instantly on your phone.
+Create **Shopify style sale notifications** for your SellAuth store and receive them instantly on your phone.
 
 This project uses:
 
