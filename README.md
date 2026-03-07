@@ -68,6 +68,7 @@ Inside your Pushover application settings upload a Icon
 Recommended:
 
 • Shopify logo styled with SellAuth colors looks the best 
+[SellAuth Shopify Logo](assets/logo/sellauth-shopify.png)
 
 
 This gives notifications a **clean Shopify style appearance**.
@@ -98,7 +99,7 @@ shopify
 ```
 
 You can use the Shopify notification sound included in this repo.
-
+[Shopify](assets/sound/shopify-notification.mp3)
 Then notifications will play the Shopify sound.
 
 ---
