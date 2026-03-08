@@ -228,7 +228,7 @@ message = €{{steps.custom_request1.$return_value.items[0].total_price}}, {{ste
  • YOURSTORENAME
 sound = shopify
 ```
-
+it should now look like this ![workflow](Example.png)
 ---
 
 # 9) Deploy the Workflow
