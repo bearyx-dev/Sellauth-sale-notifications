@@ -224,7 +224,7 @@ Body fields:
 token = YOUR_PUSHOVER_API_TOKEN
 user = YOUR_USER_KEY
 title = New Sale
-Message = €{{steps.custom_request1.$return_value.items[0].total_price}}, {{steps.custom_request1.$return_value.items[0].quantity}} {{steps.custom_request1.$return_value.items[0].quantity == 1 ? "product" : "products"}} from Online Store
+message = €{{steps.custom_request1.$return_value.items[0].total_price}}, {{steps.custom_request1.$return_value.items[0].quantity}} {{steps.custom_request1.$return_value.items[0].quantity == 1 ? "product" : "products"}} from Online Store
  • YOURSTORENAME
 sound = shopify
 ```
