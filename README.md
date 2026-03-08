@@ -160,6 +160,8 @@ Now every completed order will trigger your workflow.
 
 Add a step in Pipedream.
 
+![workflow1](example1.png)
+
 Name the step exactly:
 
 ```
@@ -197,6 +199,8 @@ This step retrieves:
 # 8) Send Notification to Pushover
 
 Add another step called:
+
+![workflow1](example1.png)
 
 ```
 pushover_request
