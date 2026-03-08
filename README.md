@@ -14,7 +14,10 @@ Example notification:
 €29.99, 1 product from Online Store
 • YOURSHOPNAME
 ```
+Is it free? YES!
+> Pipedream has a free plan which is enough for most SellAuth stores. (unless you make like 200 sales a day)
 
+> Pushover offers a 30-day trial and then costs about 5$ as a one-time purchase per device (no subscription) so for your phone it would only cost 5$ once :).
 ---
 
 # What This Does
@@ -26,6 +29,7 @@ Example notification:
 5. Pipedream sends a push notification via Pushover
 
 Result: **Instant Shopify-style sale notification on your phone.**
+
 
 ---
 
@@ -242,6 +246,9 @@ Deploy
 Your notifications are now live.
 
 Every new order will send a push notification to your phone.
+
+## TEST IT WITH A REAL ORDER MAKE A PRODUCT 0$ AND TEST BUY.
+IF YOU CLICK ON TEST IN PIPEDREAM HE CANT FETCH INVOICE DATA FROM SELLAUTH BC THERE IS NO INVOICE.
 
 ---
 
